@@ -130,7 +130,7 @@ class ATM
             return "exit";
         }
     }
-    public static void main()
+    public static void main(String Args[])
     {
         int p; int b;
         Scanner sc=new Scanner(System.in);
